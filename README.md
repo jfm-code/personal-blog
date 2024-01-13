@@ -6,7 +6,7 @@ This project serves as a creative space where I share my thoughts, experiences, 
 
 ## Overview
 
-In its current form, the website is structured as a multi-page platform. However, the long-term vision involves transitioning to a single-page format, leveraging JavaScript and frameworks for a more seamless and interactive user experience.
+In its current form, the website is structured as a multi-page platform. However, the long-term vision involves transitioning to a single-page format using React, a powerful JavaScript library for building user interfaces. This shift aims to enhance the overall user experience by providing a more seamless and interactive navigation.
 
 The content is meticulously curated, spanning topics such as study/school, work, family, friendship, relationship dynamics, healing, mental health, physical well-being, and more. The diverse range of posts aims to provide valuable insights and perspectives on these crucial aspects of life.
 
