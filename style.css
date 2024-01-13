@@ -1,0 +1,256 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-bar-left li{
+    margin-right:35px;
+}
+
+.nav-bar-right li {
+    margin-right:5px;
+    margin-left:0px;
+}
+
+.nav-bar-middle li a i {
+    margin-right:20px;
+}
+
+.nav-bar-left li, .nav-bar-right li, .nav-bar-middle li {
+    display:inline-block;
+    color: #7c9e83;
+    font-weight:bold;
+    font-size:15px;
+    margin-top:10px;
+}
+
+.nav-bar-left li a, .nav-bar-right li a {
+    text-decoration:none;
+    color:#7c9e83;
+}
+
+.nav-bar-left li a:hover, .nav-bar-right li a:hover {
+    text-decoration:underline;
+}
+
+.nav-bar-right li a i, .nav-bar-middle li a i {
+    color:#7c9e83;
+}
+
+.nav-bar-right li a i:hover, .nav-bar-middle li a i:hover{
+    color:darkgreen;
+}
+
+.nav-bar-right li input {
+    color:#7c9e83;
+    height:20px;
+    width:200px;
+    padding: 2px 5px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #7c9e83;
+}
+.greeting {
+    text-align: center;
+    text-shadow: #7c9e83;
+    color:darkgreen;
+    font-size: 100px;
+    font-family: 'Fairplay Display';
+    font-style: italic;
+    margin-bottom:40px;
+}
+.quote-index-page {
+    text-align:center;
+    font-style:italic;
+    margin-bottom:50px;
+}
+.centered-img {
+    text-align:center;
+}
+.right-img {
+    text-align:right;
+}
+.left-img {
+    text-align:right;
+}
+.big-pic {
+    width:1100px;
+}
+
+.row
+{
+    display:flex;
+}
+
+.left-column-index-page {
+    float:left;
+    width:75%;
+    margin-left:75px;
+    margin-top:50px;
+}
+
+.right-column-index-page
+{
+    float:right;
+    width:25%;
+    margin-right:75px;
+    margin-top:50px;
+    margin-left:50px;
+}
+
+.right-column-index-page h2 {
+    color:darkgreen;
+    margin-top: 0px;
+}
+
+.left-column-index-page h2 
+{
+    text-align: center;
+    color:darkgreen;
+    font-size:30px;
+    margin-top:0px;
+    margin-bottom:30px;
+}
+.date-index-page {
+    text-align: center;
+    font-weight: bold;
+    color:#7c9e83;
+    margin-bottom:0px;
+    margin-top:0px;
+}
+
+.left-pic
+{
+    width:100%;
+}
+
+.right-pic
+{
+    width:310px;
+    
+}
+
+p,label
+{
+    text-align:justify;
+    color:#7c9e83;
+}
+
+/* Styling for footer */
+footer
+{
+    background:#7c9e83;
+    margin-top: 20px;
+    padding:5px;
+}
+
+.footer-column, .footer-column p, .footer-column h3, .footer-column form
+{
+    color:white;
+    margin-right: 0px;
+    margin-top:15px;
+    margin-bottom:15px;
+    margin-left:80px;
+}
+.footer-column h3
+{
+    font-weight: bold;
+}
+
+/* Styling of post page */
+.section-post-page {
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:20px;
+    text-shadow: #7c9e83;
+    color:darkgreen;
+    font-size: 40px;
+    font-family: 'Fairplay Display';
+    font-style: italic;
+}
+
+.right-section-post-page {
+    display:flex;
+}
+
+.post-title
+{
+    text-align:left;
+    color:#7c9e83;
+    margin-left:20px;
+    margin-top:30px;
+}
+
+
+.small-pic-post-page{
+    width:28.4%;
+    margin-top:40px;
+    margin-left:45px;
+}
+
+.big-pic-post-page{
+    width:40%;
+    margin-top:20px;
+    margin-left:75px;
+    margin-right:20px;
+}
+
+.preview-text-post-page {
+    width:28.4%;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:45px;
+}
+
+.left-column-post-page {
+    float:left;
+    width:20%;
+    margin-left:75px;
+}
+
+.right-column-post-page {
+    float:right;
+    width:100%;
+    margin-right:75px;
+}
+
+/* Styling for about me page */
+.small-pic-about-me {
+    width:20%;
+    margin-top:40px;
+    border-radius:50%;
+}
+.text-full-screen {
+    margin-left:75px;
+    margin-right:75px;
+}
+.heading-left {
+    margin-left:75px;
+    margin-top:40px;
+    text-align:left;
+}
+.text-left {
+    margin-left:75px;
+    margin-right:20px;
+    margin-top:0px;
+}
+.text-right {
+    margin-left:20px;
+    margin-right:75px;
+    margin-top:0px;
+}
+.right-pic-about-me {
+    margin-right:75px;
+    width:70%;
+}
+.left-pic-about-me {
+    margin-left:75px;
+    margin-right:20px;
+    width:70%;
+}
+.pdf-embed {
+    width:88%;
+    height:600px;
+    margin-left:75px;
+    margin-right:75px;
+    margin-bottom:20px;
+}
